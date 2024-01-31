@@ -11,6 +11,7 @@
 <!-- 📊 GitHub Stats -->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=bransyahtan&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bransyahtan&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 <br/>
 
@@ -20,10 +21,6 @@
 </div>
 <br/>
 
-<!-- 📊 Top Languages -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bransyahtan&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bransyahtan&theme=discord&no-frame=false&no-bg=false&margin-w=4)
