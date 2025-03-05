@@ -1,10 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m @bransyahtan. friend of @andikatp<br>👀 I’m interested in Website Development. <br>🌱 I’m currently using React JS and Next JS. <br>📫 How to reach me:
+👋 Hi, I’m @bransyahtan. <br>👀 I’m interested in Website Development. <br>🌱 I’m currently using React JS and Next JS. <br>📫 How to reach me:
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bransyatan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bransyahtan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=red)](https://linkedin.com/in/andikatp)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:bransyahtan@gmail.com)
 
 
