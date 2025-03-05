@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @bransyahtan. <br>👀 I’m interested in Website Development. <br>🌱 I’m currently using React JS and Next JS. <br>📫 How to reach me:
+👋 Hi, I’m @bransyahtan. friend of @andikatp<br>👀 I’m interested in Website Development. <br>🌱 I’m currently using React JS and Next JS. <br>📫 How to reach me:
 
 
 ## 🌐 Socials:
