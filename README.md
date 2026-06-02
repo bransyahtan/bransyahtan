@@ -1,59 +1,143 @@
-# 💫 About Me:
-👋 Hi, I’m @bransyahtan. <br>👀 I’m interested in Website Development. <br>🌱 I’m currently using React JS and Next JS. <br>📫 How to reach me:
+# Hi, I'm Bransyah Tan 👋
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bransyatan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bransyahtan)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:bransyahtan@gmail.com)
-
-
-# 💻 Tech Stack:
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-
-</div>
-
-
-# 📊 GitHub Stats:
-<!-- 📊 GitHub Stats -->
-<div align="center">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=bransyahtan&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <!-- 📊 Top Languages -->
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bransyahtan&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-<br/>
-
-<!-- 📊 GitHub Streak -->
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bransyahtan&theme=react&hide_border=false" alt="GitHub Streak" />
-</div>
-<br/>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bransyahtan&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://linkedin.com/in/bransyahtan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/bransyatan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:bransyahtan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bransyahtan&icon=1&color=0)](https://visitcount.itsvg.in)
+
+### 🚀 About Me
+
+Passionate full-stack software engineer based in **Indonesia** 🇮🇩. I specialize in building high-performance, scalable web and mobile applications from concept to deployment. I enjoy designing clean APIs, optimizing database performance, and creating modern, interactive frontend interfaces.
+
+- 💼 **Available for freelance work, remote roles, and engineering collaborations.**
+- 🌱 **Learning & Research**: Advanced system design patterns, cloud infrastructures, and AI integration.
+
+---
+
+### 💻 Developer Profile
+
+```yaml
+developer:
+  name: Bransyah Tan
+  role: Fullstack Software Engineer
+  specialties:
+    - Web & Mobile Applications
+    - RESTful & GraphQL APIs
+    - Database Optimization & Cloud Architectures
+  technologies:
+    frontend: [React.js, Next.js, Vue.js, Nuxt.js, TypeScript]
+    backend:  [Node.js, Express.js, Laravel, ASP.NET]
+    mobile:   [Flutter, React Native]
+    database: [PostgreSQL, MongoDB]
+    cloud:    [Firebase, Supabase]
+```
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 🌐 Frontend & Mobile
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,bootstrap,vite,flutter" alt="Frontend & Mobile Tech" />
+  </a>
+</p>
+
+#### ⚙️ Backend, Databases & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,dotnet,postgres,mongodb,supabase,firebase" alt="Backend & Databases Tech" />
+  </a>
+</p>
+
+#### 🔧 Languages, Dev Tools & Workflows
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,cs,dart,git,github,postman,vscode,npm" alt="Languages & Tools" />
+  </a>
+</p>
+
+#### 🏷️ Integrations & Protocols
+<p align="left">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" alt="JWT" />
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 Monivo</h3>
+      <p>Personal finance management platform designed to help users track assets, monitor cash flow, manage budgets, and oversee investment portfolios.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://monivo-blue.vercel.app/" target="_blank">🔗 Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 Evergreen</h3>
+      <p>Modern corporate website focused on SEO, responsiveness, maintainability, and high-performance design architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://evergreen-bar.vercel.app/" target="_blank">🔗 Live Demo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍳 My Recipe</h3>
+      <p>Recipe discovery platform with clean UI/UX transitions, fast loading speed, responsive layout, and intuitive search functions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p>
+        <a href="https://my-recipe-opal.vercel.app/" target="_blank">🔗 Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <br />
+      <p>🔨 <strong>More exciting projects in the pipeline...</strong></p>
+      <p>Check my repositories to see API designs, microservices, and cross-platform mobile apps.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Statistics & Analytics
+<p align="center">
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=bransyahtan&theme=onedark" alt="GitHub Streak" />
+  <img height="180px" src="https://github-readme-activity-graph.vercel.app/graph?username=bransyahtan&theme=react" alt="Activity Graph" />
+</p>
+
+<p align="center">
+<img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bransyahtan&layout=compact&theme=onedark" />
+</p>
+
+
 
