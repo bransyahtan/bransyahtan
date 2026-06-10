@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-Passionate full-stack software engineer based in **Indonesia** 🇮🇩. I specialize in building high-performance, scalable web and mobile applications from concept to deployment. I enjoy designing clean APIs, optimizing database performance, and creating modern, interactive frontend interfaces.
+Passionate full-stack software engineer based in **Indonesia**. I specialize in building high-performance, scalable web and mobile applications from concept to deployment. I enjoy designing clean APIs, optimizing database performance, and creating modern, interactive frontend interfaces.
 
 - 💼 **Available for freelance work, remote roles, and engineering collaborations.**
 - 🌱 **Learning & Research**: Advanced system design patterns, cloud infrastructures, and AI integration.
@@ -27,18 +27,18 @@ Passionate full-stack software engineer based in **Indonesia** 🇮🇩. I speci
 
 ```yaml
 developer:
-  name: Bransyah Tan
+  name: Sultan Bransyah
   role: Fullstack Software Engineer
   specialties:
     - Web & Mobile Applications
     - RESTful & GraphQL APIs
-    - Database Optimization & Cloud Architectures
-  technologies:
+    - Database Optimization
+technologies:
     frontend: [React.js, Next.js, Vue.js, Nuxt.js, TypeScript]
     backend:  [Node.js, Express.js, Laravel, ASP.NET]
     mobile:   [Flutter, React Native]
     database: [PostgreSQL, MongoDB]
-    cloud:    [Firebase, Supabase]
+    service:    [Firebase, Supabase]
 ```
 
 ---
@@ -81,7 +81,7 @@ developer:
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 Monivo</h3>
+      <h3>Monivo</h3>
       <p>Personal finance management platform designed to help users track assets, monitor cash flow, manage budgets, and oversee investment portfolios.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
@@ -94,8 +94,8 @@ developer:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 Evergreen</h3>
-      <p>Modern corporate website focused on SEO, responsiveness, maintainability, and high-performance design architecture.</p>
+     <h3>Evergreen Bar</h3>
+      <p>Modern bar landing page showcasing menu offerings, location details, operating hours, and contact information through a responsive and visually engaging user experience.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -108,8 +108,8 @@ developer:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍳 My Recipe</h3>
-      <p>Recipe discovery platform with clean UI/UX transitions, fast loading speed, responsive layout, and intuitive search functions.</p>
+      <h3>My Recipe</h3>
+      <p>A modern recipe application that allows users to browse food recipes, view ingredients and cooking instructions, and discover new dishes through a clean, responsive, and user-friendly interface.</p>
       <p>
         <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
