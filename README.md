@@ -109,7 +109,7 @@ technologies:
   <tr>
     <td width="50%" valign="top">
       <h3>My Recipe</h3>
-      <p>A modern recipe application that allows users to browse food recipes, view ingredients and cooking instructions, and discover new dishes through a clean, responsive, and user-friendly interface.</p>
+      <p>A modern recipe application that allows users to browse food recipes, view ingredients and cooking instructions, and discover new dishes through a clean, responsive, and user friendly interface.</p>
       <p>
         <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
