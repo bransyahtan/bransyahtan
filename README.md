@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-Passionate full-stack software engineer based in **Indonesia**. I specialize in building high-performance, scalable web and mobile applications from concept to deployment. I enjoy designing clean APIs, optimizing database performance, and creating modern, interactive frontend interfaces.
+Passionate full stack software engineer based in **Indonesia**. I specialize in building high performance, scalable web and mobile applications from concept to deployment. I enjoy designing clean APIs, optimizing database performance, and creating modern, interactive frontend interfaces.
 
 - 💼 **Available for freelance work, remote roles, and engineering collaborations.**
 - 🌱 **Learning & Research**: Advanced system design patterns, cloud infrastructures, and AI integration.
