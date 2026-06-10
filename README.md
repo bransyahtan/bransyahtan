@@ -38,7 +38,7 @@ technologies:
     backend:  [Node.js, Express.js, Laravel, ASP.NET]
     mobile:   [Flutter, React Native]
     database: [PostgreSQL, MongoDB]
-    service:    [Firebase, Supabase]
+    service:  [Firebase, Supabase]
 ```
 
 ---
