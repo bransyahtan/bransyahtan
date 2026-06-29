@@ -130,13 +130,14 @@ technologies:
 
 ### 📊 GitHub Statistics & Analytics
 
-<a href="https://github.com/bransyahtan">
-   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=bransyahtan&show_icons=true&theme=dracula">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bransyahtan&layout=compact&theme=onedark" />
-  <!-- <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=bransyahtan&theme=github"> -->
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=bransyahtan&theme=onedark" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/bransyahtan">
+    <img width="440" src="https://github-readme-stats.vercel.app/api?username=bransyahtan&show_icons=true&theme=dracula" />
+    <img width="385" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bransyahtan&layout=compact&theme=onedark" />
+    <br />
+    <img width="385" src="https://github-readme-streak-stats.herokuapp.com/?user=bransyahtan&theme=onedark" />
+  </a>
+</p>
 
 
 
