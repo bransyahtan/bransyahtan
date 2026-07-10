@@ -132,7 +132,7 @@ technologies:
 
 <p align="center">
   <a href="https://github.com/bransyahtan">
-    <img width="440" src="https://github-readme-stats.vercel.app/api?username=bransyahtan&show_icons=true&theme=dracula" />
+    <!-- <img width="440" src="https://github-readme-stats.vercel.app/api?username=bransyahtan&show_icons=true&theme=dracula" /> -->
     <img width="385" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bransyahtan&layout=compact&theme=onedark" />
     <br />
     <img width="385" src="https://github-readme-streak-stats.herokuapp.com/?user=bransyahtan&theme=onedark" />
