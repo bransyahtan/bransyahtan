@@ -121,7 +121,7 @@ technologies:
     <td width="50%" valign="middle" align="center">
       <br />
       <p>🔨 <strong>More exciting projects in the pipeline...</strong></p>
-      <p>Check my repositories to see API designs, microservices, and cross-platform mobile apps.</p>
+      <p>Check my repositories to see API designs, microservices, and cross platform mobile apps.</p>
     </td>
   </tr>
 </table>
