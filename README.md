@@ -126,7 +126,7 @@ technologies:
   </tr>
 </table>
 
----
+
 
 ### 📊 GitHub Statistics & Analytics
 
@@ -139,3 +139,7 @@ technologies:
   </a>
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=andikatp&theme=onedark)
