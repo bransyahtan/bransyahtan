@@ -142,4 +142,4 @@ technologies:
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=andikatp&theme=onedark)
+![Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=bransyahtan&theme=onedark)
