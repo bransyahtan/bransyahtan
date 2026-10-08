@@ -1,4 +1,4 @@
-# Hi, I'm Bransyah Tan 
+# Hi, I'm Sultan Bransyah
 
 <p align="center">
   <a href="https://linkedin.com/in/bransyahtan" target="_blank">
